@@ -1,2 +1,2 @@
 # stat
-Vector stream projection.
+Vector stream trivial projection.
